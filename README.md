@@ -1,7 +1,9 @@
 # WaterMark-Image-Comparison
 Language:\
 Python\
+\
 Part 2 of a group project that web scrapped Instagram and downloaded photos with a hashtag or a user handle. The photos then are compared with each other and inform the user if their photos have been copied by other accounts or not.\
+\
 Goal: Create a Program that can identify a watermark on an Image using an algorithm.\
 By using an image template, the algorithm will search the pixels on the image looking for the closest related location to the template.\
 The goal was to compare the selected location found by the algorithm and compare it to the template to determine if it is the same or not.\
