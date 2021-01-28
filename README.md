@@ -1,1 +1,1 @@
-# WaterMark-Photo-Comparison
+# WaterMark-Image-Comparison
