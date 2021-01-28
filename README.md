@@ -10,7 +10,7 @@ The goal was to compare the selected location found by the algorithm and compare
 This caused my problems with resizing of the photo and is still being worked on.\
 This version does compare both photos to each other and will inform the user if it is a copied image or not.\
 A timer limits the time showing the algorithms found locations for each photo and will open and close each window accordingly.\
-A new Image will be made combining the differences of each photo into one and save it to the main folder.\
+A new Image will be made combining the differences of each photo into one and save it to the main folder.
 
 ![Instagram 3](https://user-images.githubusercontent.com/55899983/106178699-f4f56b80-614e-11eb-8b9b-ba35a9d090c0.JPG)
 ![Instagram 2](https://user-images.githubusercontent.com/55899983/106178707-f6bf2f00-614e-11eb-8713-83be013be596.JPG)
